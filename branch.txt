@@ -1,3 +1,2 @@
 the branch was created by Mikhail Belogolov
-
-Ярославцев внес правку для теста пул реквеста
+This branch maked by Vladimir Brusentsov
